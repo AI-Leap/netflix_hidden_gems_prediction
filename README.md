@@ -1,3 +1,6 @@
+The link to the medium blog post
+https://medium.com/p/622062af6404/edit
+
 # Predict the hidden gem score of a movie on Netflix
 
 ![netflix_vft6 jpg](https://user-images.githubusercontent.com/20230956/120425038-868e1780-c393-11eb-856b-6c7499b46d20.png)
@@ -14,12 +17,12 @@ This dataset combines data sources from Netflix, Rotten Tomatoes, IMBD, posters,
 
 [Project Background]
 
-Netflix has a lot of quality movies and series with different genres under different categories. Netflixers have to search through Netflix to know which contents is better quality. That is uneasy and a bit time consuming. Hidden gem addresses such problem.
+Netflix has a lot of quality movies and series with different genres under different categories. People on Netflix have to search through Netflix to know which content is of better quality. That is uneasy and a bit time-consuming. Hidden gem addresses such problem.
 The business idea behind this problem is to know which type of movie can get higher ranting and popular among viewers.
 
-In project, there will be 3 different business understanding for movie industries.
+In the project, there will be 3 different business understanding for movie industries.
 
-### 1. Which genre of movies or series are the most showed on Netflix from year 2015 to 2021.
+### 1. Which genre of movies or series is the most shown on Netflix from the year 2015 to 2021.
 
 ![genre_count](https://user-images.githubusercontent.com/20230956/120663427-03aeaf00-c4b0-11eb-8ae0-ef577350d1ac.png)
 
