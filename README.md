@@ -8,6 +8,13 @@ https://medium.com/p/622062af6404/edit
 The hidden gem score is the highlight of the popularity of a movie.
 The higher the hidden gem score, the higher the movie rating. 
 
+## Table of Contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+
 ### Datasets
 Kaggle dataset (Latest Netflix data with 26+ joined attributes) is used for this project.
 
@@ -17,8 +24,10 @@ This dataset combines data sources from Netflix, Rotten Tomatoes, IMBD, posters,
 
 [Project Background]
 
-Netflix has a lot of quality movies and series with different genres under different categories. People on Netflix have to search through Netflix to know which content is of better quality. That is uneasy and a bit time-consuming. Hidden gem addresses such problem.
-The business idea behind this problem is to know which type of movie can get higher ranting and popular among viewers.
+Netflix has a lot of quality movies and series with different genres under different categories. People on Netflix have to search through Netflix to know which content is of better quality. That is uneasy and a bit time-consuming. Hidden gem addresses such a problem.
+The business idea behind this problem is to know which type of movie can get higher ranting and popularity among viewers.
+
+https://github.com/AI-Leap/netflix_hidden_gems_prediction/blob/main/Netflix_Movie_Prediction.ipynb
 
 In the project, there will be 3 different business understanding for movie industries.
 
@@ -34,3 +43,18 @@ In the project, there will be 3 different business understanding for movie indus
 
 ![mae](https://user-images.githubusercontent.com/20230956/120663475-0f9a7100-c4b0-11eb-861f-cc2fd5343d8a.png)
 
+## Technologies
+The following libraries are used:
+* pandas
+* numpy
+* collections
+* nltk
+* matplotlib
+* seaborn
+* sklearn
+
+## Setup
+```
+$ pip install jupyter
+$ pip install pandas numpy matplotlib seaborn scikit-learn
+```
