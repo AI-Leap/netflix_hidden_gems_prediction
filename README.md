@@ -1,5 +1,5 @@
 The link to the medium blog post
-https://medium.com/p/622062af6404/edit
+https://blog.aileap.org/predicting-the-rating-of-netflix-movies-622062af6404
 
 # Predict the hidden gem score of a movie on Netflix
 
